@@ -1,0 +1,2 @@
+# AOI
+Artificial Organizational Intelligence
