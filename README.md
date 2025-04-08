@@ -6,4 +6,4 @@ The research programme began in 1973, marked by Stamper’s book on information.
 
 ## A Global Community for the OS Researchers and Those Who Are Interested
 
-Welcome to the community. We continuesly share information about the latest research and applications.
+Welcome to our community. We continuously share the latest research and applications.
